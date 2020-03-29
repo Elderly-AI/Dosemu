@@ -32,8 +32,8 @@
 	1.3. запускаем DosBox
 	1.4. пишем mount c путь-до-вашего-распакованного-архива
 	1.5. cd c:
-	1.6. utils\edit.exe your-progtam.asm				// текстовый редактор можно и просто через txt
-	8. utils\tlink.exe your-progtam.obj				// линковщие tlink
-	9. utils\td\td.exe your-progtam.exe				// ваш любимый turbo debugger
+	1.6. utils\edit.exe your-progtam.asm					// текстовый редактор можно и просто через txt
+	8. utils\tlink.exe your-progtam.obj					// линковщие tlink
+	9. utils\td\td.exe your-progtam.exe					// ваш любимый turbo debugger
 
 	Для mac сделаю по позже )
