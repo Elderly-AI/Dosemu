@@ -23,9 +23,9 @@
 	1.1.6 utils\tlink.exe your-progtam.obj					// линковщие tlink
 	1.1.7 utils\td\td.exe your-progtam.exe					// ваш любимый turbo debugger
 
-# 2. Для windows
+# 2. Для windows и Mac
 
-	1.0. Качаем DosBox https://sourceforge.net/projects/dosbox/files/latest/download
+	1.0. Качаем DosBox https://sourceforge.net/projects/dosbox/
 	1.1. качаем архивчик https://github.com/Elderly-AI/Dosemu/archive/master.zip
 	1.2. распаковываем архивчик и запоминаем до него путь
 	1.3. запускаем DosBox
@@ -35,5 +35,3 @@
 	2.0. utils\edit.exe your-progtam.asm					// текстовый редактор можно и просто через txt
 	2.1. utils\tlink.exe your-progtam.obj					// линковщие tlink
 	2.2. utils\td\td.exe your-progtam.exe					// ваш любимый turbo debugger
-
-	Для mac сделаю по позже )
