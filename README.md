@@ -30,7 +30,8 @@
 	1.2. распаковываем архивчик и запоминаем до него путь
 	1.3. запускаем DosBox
 	1.4. mount C путь-до-вашего-распакованного-архива			// Монтируем диск
-	1.5. cd C:
+	1.5. C:
+	1.6. cd Dosemu-master 
 	
 	2.0. utils\edit.exe your-progtam.asm					// текстовый редактор можно и просто через txt
 	2.1. utils\tlink.exe your-progtam.obj					// линковщие tlink
