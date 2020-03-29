@@ -22,7 +22,6 @@
 	1.1.5 utils\tasm.exe your-progtam.asm					// компилятор tasm
 	1.1.6 utils\tlink.exe your-progtam.obj					// линковщие tlink
 	1.1.7 utils\td\td.exe your-progtam.exe					// ваш любимый turbo debugger
-		
 
 # 2. Для windows
 
@@ -32,8 +31,9 @@
 	1.3. запускаем DosBox
 	1.4. пишем mount c путь-до-вашего-распакованного-архива
 	1.5. cd c:
-	1.6. utils\edit.exe your-progtam.asm					// текстовый редактор можно и просто через txt
-	8. utils\tlink.exe your-progtam.obj					// линковщие tlink
-	9. utils\td\td.exe your-progtam.exe					// ваш любимый turbo debugger
+	
+	2.0. utils\edit.exe your-progtam.asm					// текстовый редактор можно и просто через txt
+	2.1. utils\tlink.exe your-progtam.obj					// линковщие tlink
+	2.2. utils\td\td.exe your-progtam.exe					// ваш любимый turbo debugger
 
 	Для mac сделаю по позже )
