@@ -1,6 +1,7 @@
 #HI, это не официальный гайд по настройке окружения для вашего любимого assembler :)
 
 #1. Для Linux
+
 	PS Вот конвеер если не хотите копировать, можно будет перейти стразу на шаг 1.1.1: sudo apt-get update && sudo apt-get install dosemu wget unzip && cd && wget https://github.com/Elderly-AI/Dosemu/archive/master.zip && unzip master.zip && rm -rf master.zip
 
 	1.0.0 открываем терминал
