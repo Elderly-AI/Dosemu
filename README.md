@@ -32,6 +32,6 @@
 	1.4. mount C путь-до-вашего-распакованного-архива			// Монтируем диск
 	1.5. C:
 	
-	2.0. utils\edit.exe your-progtam.asm					// текстовый редактор можно и просто через txt
+	2.0. utils\edit.com							// текстовый редактор можно и просто через txt
 	2.1. utils\tlink.exe your-progtam.obj					// линковщие tlink
 	2.2. utils\td\td.exe your-progtam.exe					// ваш любимый turbo debugger
