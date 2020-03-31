@@ -32,7 +32,7 @@
 	1.4. mount C путь-до-вашего-распакованного-архива			// Монтируем диск
 	1.5. C:
 	
-	2.0. utils\edit.com your-prog.asm						// текстовый редактор
-	2.1. utils\tasm.exe your-prog.asm
-	2.2. utils\tlink.exe your-prog.obj						// линковщик tlink
-	2.3. utils\td\td.exe your-prog.exe						// ваш любимый turbo debugger
+	2.0. utils\edit.com your-prog.asm					// текстовый редактор
+	2.1. utils\tasm.exe your-prog.asm					// компилятор tasm
+	2.2. utils\tlink.exe your-prog.obj					// линковщик tlink
+	2.3. utils\td\td.exe your-prog.exe					// ваш любимый turbo debugger
