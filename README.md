@@ -18,10 +18,10 @@
 	1.1.1 dosemu 								// запускаем эмулятор
 	1.1.2 D: 								// переходим в домашний каталог (диск D)
 	1.1.3 cd Dosemu-master 							// переходим в папочку Dosemu-master
-	1.1.4 edit your-progtam.asm						// текстовый редактор
-	1.1.5 utils\tasm.exe your-progtam.asm					// компилятор tasm
-	1.1.6 utils\tlink.exe your-progtam.obj					// линковщие tlink
-	1.1.7 utils\td\td.exe your-progtam.exe					// ваш любимый turbo debugger
+	1.1.4 edit your-prog.asm						// текстовый редактор
+	1.1.5 utils\tasm.exe your-prog.asm					// компилятор tasm
+	1.1.6 utils\tlink.exe your-prog.obj					// линковщие tlink
+	1.1.7 utils\td\td.exe your-prog.exe					// ваш любимый turbo debugger
 
 # 2. Для windows и Mac
 
@@ -32,6 +32,7 @@
 	1.4. mount C путь-до-вашего-распакованного-архива			// Монтируем диск
 	1.5. C:
 	
-	2.0. utils\edit.com 							// текстовый редактор
-	2.1. utils\tlink.exe myprog.obj						// линковщик tlink
-	2.2. utils\td\td.exe myprog.exe						// ваш любимый turbo debugger
+	2.0. utils\edit.com your-prog.asm						// текстовый редактор
+	2.1. utils\tasm.exe your-prog.asm
+	2.2. utils\tlink.exe your-prog.obj						// линковщик tlink
+	2.3. utils\td\td.exe your-prog.exe						// ваш любимый turbo debugger
